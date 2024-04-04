@@ -5,3 +5,5 @@ Did only Part 1 of the assignment. Project 3 time crunch, ya know?
 Used the last 30 days JSON. The map is a bit busy but fun to look at. 
 
 Added legend to css file. There is a toggle between Street Map and Topographic, as well as a legend seperating by various depths in KM. 
+
+Also added map image.
